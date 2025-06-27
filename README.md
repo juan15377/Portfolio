@@ -1,2 +1,2 @@
 # Portfolio
-Repositorio Dedicado a explicar a mi proyectos Académicos y Personales.
+Repositorio Dedicado a explicar mis proyectos Académicos y Personales.
